@@ -5,3 +5,4 @@ function reverse(str) {
 
 let str = 'hello my name is daxesh';
 console.log(reverse(str)); // output: hsexad si eman ym olleh
+ 
